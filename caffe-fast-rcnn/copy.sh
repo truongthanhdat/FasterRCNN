@@ -1,0 +1,11 @@
+cp ~/caffe/include/caffe/util/cudnn.hpp include/caffe/util/cudnn.hpp
+cp ~/caffe/src/caffe/layers/cudnn_conv_layer.cu src/caffe/layers/cudnn_conv_layer.cu
+cp ~/caffe/src/caffe/layers/cudnn_relu_layer.cpp src/caffe/layers/cudnn_relu_layer.cpp
+cp ~/caffe/src/caffe/layers/cudnn_relu_layer.cu src/caffe/layers/cudnn_relu_layer.cu
+cp ~/caffe/src/caffe/layers/cudnn_sigmoid_layer.cpp src/caffe/layers/cudnn_sigmoid_layer.cpp
+cp ~/caffe/src/caffe/layers/cudnn_sigmoid_layer.cu src/caffe/layers/cudnn_sigmoid_layer.cu
+cp ~/caffe/src/caffe/layers/cudnn_tanh_layer.cpp src/caffe/layers/cudnn_tanh_layer.cpp
+cp ~/caffe/src/caffe/layers/cudnn_tanh_layer.cu src/caffe/layers/cudnn_tanh_layer.cu
+cp ~/caffe/include/caffe/layers/cudnn_relu_layer.hpp include/caffe/layers/cudnn_relu_layer.hpp
+cp ~/caffe/include/caffe/layers/cudnn_sigmoid_layer.hpp include/caffe/layers/cudnn_sigmoid_layer.hpp
+cp ~/caffe/include/caffe/layers/cudnn_tanh_layer.hpp include/caffe/layers/cudnn_tanh_layer.hpp
